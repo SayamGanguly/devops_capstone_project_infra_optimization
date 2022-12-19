@@ -1,1 +1,1 @@
-# devops_capstone_project_infro_optimization
+# devops_capstone_project_infra_optimization
